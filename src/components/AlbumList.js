@@ -9,6 +9,6 @@ class AlbumList extends Component {
             </View>
         );
     }
-};
+}
 
 export default AlbumList;
